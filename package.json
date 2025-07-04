@@ -13,7 +13,6 @@
     "@radix-ui/react-label": "^2.1.7",
     "@radix-ui/react-slot": "^1.2.3",
     "@radix-ui/react-tabs": "^1.1.12",
-    "@rollup/rollup-linux-x64-gnu": "^4.44.2",
     "@tailwindcss/vite": "^4.1.11",
     "buffer": "^6.0.3",
     "class-variance-authority": "^0.7.1",
@@ -41,5 +40,8 @@
     "typescript": "~5.8.3",
     "typescript-eslint": "^8.34.1",
     "vite": "^7.0.0"
+  },
+  "optionalDependencies": {
+    "@rollup/rollup-linux-x64-gnu": "^4.44.2"
   }
 }
